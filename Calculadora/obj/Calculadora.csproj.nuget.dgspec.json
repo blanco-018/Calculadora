@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pblanco\\Source\\Repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\pblanco\\source\\repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pblanco\\Source\\Repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\pblanco\\source\\repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pblanco\\Source\\Repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\pblanco\\source\\repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\Users\\pblanco\\Source\\Repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\pblanco\\source\\repos\\CalculadoraPB\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\pblanco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pblanco\\Source\\Repos\\CalculadoraPB\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\pblanco\\source\\repos\\CalculadoraPB\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

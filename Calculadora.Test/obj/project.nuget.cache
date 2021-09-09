@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lbYdSfrjjwDg1PuEgphu5Zd1jyqIbXwALdGBq4q9VrahgFEUvzYxu0V+S4+nmTRUBeqjqQ3oSZ2N76bUJ1/l9Q==",
+  "dgSpecHash": "f9ZeAyjNa4G0ON230y/dXuZYub2Ag63UM357B4py3/6DMUgTuKOvOIzRlK2FA7Y2H8pQLP/6CVaVrma/PZJvfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pblanco\\Source\\Repos\\CalculadoraPB\\Calculadora.Test\\Calculadora.Test.csproj",
+  "projectFilePath": "C:\\Users\\pblanco\\source\\repos\\CalculadoraPB\\Calculadora.Test\\Calculadora.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pblanco\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\pblanco\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
